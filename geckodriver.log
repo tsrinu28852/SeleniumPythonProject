@@ -1,0 +1,81 @@
+1622888110251	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tsrin\\AppData\\Local\\Temp\\rust_mozprofile.RrwhWJHTFLPc"
+1622888116558	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tsrin\\AppData\\Local\\Temp\\rust_mozprofile.Tt3XGDslBZ62"
+1622888118318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1622888118318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1622888118319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1622888118319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1255: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/SanityTest.jsm, line 300: TypeError: this.mm is null
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1255: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1255: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1255: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 135: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 135: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 135: TypeError: this._browser.frameLoader.remoteTab is null
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2326 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2326:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2326 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2326:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2326 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2326:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+1622888130781	addons.xpi	WARN	Exception running bootstrap method startup on formautofill@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2326:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2326:39
+build@ext-backgroundPage.js:73:20
+1622888130782	addons.xpi	WARN	Exception running bootstrap method startup on webcompat@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2326:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2326:39
+build@ext-backgroundPage.js:73:20
+1622888130782	addons.xpi	WARN	Exception running bootstrap method startup on screenshots@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2326:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2326:39
+build@ext-backgroundPage.js:73:20
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1255: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 434: TypeError: browser.webProgress is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1717: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1717: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1717: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 135: TypeError: this._browser.frameLoader.remoteTab is null
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+1622888139697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1622888139697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1622888139697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1622888139697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+[Parent 12224, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1572401533/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1255: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 135: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1005: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "this._browser.frameLoader.remoteTab is null" {file: "resource://gre/modules/RemoteWebNavigation.jsm" line: 135}]'[JavaScript Error: "this._browser.frameLoader.remoteTab is null" {file: "resource://gre/modules/RemoteWebNavigation.jsm" line: 135}]' when calling method: [nsIWebNavigation::loadURI]
+JavaScript error: chrome://browser/content/browser.js, line 8517: TypeError: browser.messageManager is null
+JavaScript error: chrome://browser/content/browser.js, line 8517: TypeError: browser.messageManager is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 97: TypeError: mm is null
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5070: TypeError: browser.webProgress is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221622851881772%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:257:13
+
+ebextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1622888182604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1622888182604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1622888182605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622888198476	Marionette	INFO	Listening on port 64477
+1622888208387	Marionette	INFO	Stopped listening on port 64477
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
