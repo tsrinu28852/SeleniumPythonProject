@@ -243,7 +243,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>reports.html</h1>
-    <p>Report generated on 05-Jun-2021 at 15:28:37 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <p>Report generated on 05-Jun-2021 at 18:31:20 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -265,7 +265,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Tester</td>
         <td>Srinivas</td></tr></table>
     <h2>Summary</h2>
-    <p>4 tests ran in 122.08 seconds. </p>
+    <p>4 tests ran in 123.50 seconds. </p>
     <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">3 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
@@ -281,35 +281,45 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <tr>
           <td class="col-result">Failed</td>
           <td class="col-name">testCases/test_login.py::Test_001_Invalid_Login::test_capture_screenshot_failed</td>
-          <td class="col-duration">24.37</td>
+          <td class="col-duration">23.93</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody>
+            <div class="log">self = &lt;testCases.test_login.Test_001_Invalid_Login object at 0x045F0350&gt;, setup = &lt;selenium.webdriver.chrome.webdriver.WebDriver (session=&quot;ac92f42f83769fc0b6cc8fb7241ec2fd&quot;)&gt;<br/><br/>    def test_capture_screenshot_failed(self, setup):<br/>        self.logger.info(&quot;****Capture screenshot test when test failed ****&quot;)<br/>        self.driver = setup<br/>        self.driver.get(self.baseURL)<br/>        time.sleep(10)<br/>        act_title = self.driver.title<br/>        if act_title == &quot;OrangeHRM1&quot;:<br/>            self.driver.close()<br/>            assert True<br/>        else:<br/>            self.logger.info(&quot;****Captured screenshot****&quot;)<br/>            self.driver.save_screenshot(&quot;.\\Screenshots\\&quot; + &quot;test_homePageTitle.png&quot;)<br/>            self.driver.close()<br/>&gt;           assert False<br/><span class="error">E           assert False</span><br/><br/>testCases\test_login.py:82: AssertionError<br/> -----------------------------Captured stdout setup------------------------------ <br/>Launching chrome browser.........
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     Test_001_Invalid_Login:test_login.py:70 ****Capture screenshot test when test failed ****
+INFO     Test_001_Invalid_Login:test_login.py:79 ****Captured screenshot****<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">testCases/test_login.py::Test_001_Invalid_Login::test_homePageTitle</td>
-          <td class="col-duration">18.25</td>
+          <td class="col-duration">16.59</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody>
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching chrome browser.........
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     Test_001_Invalid_Login:test_login.py:17 *************** Test_001_Login *****************
+INFO     Test_001_Invalid_Login:test_login.py:18 ****Started Home page title test ****
+INFO     Test_001_Invalid_Login:test_login.py:24 **** Home page title test passed ****<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">testCases/test_login.py::Test_001_Invalid_Login::test_login_success</td>
-          <td class="col-duration">47.72</td>
+          <td class="col-duration">48.36</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody>
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching chrome browser.........
+<br/> ------------------------------Captured stdout call------------------------------ <br/>Welcome Paul
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     Test_001_Invalid_Login:test_login.py:34 ****Started Login Success test ****
+INFO     Test_001_Invalid_Login:test_login.py:43 The User Name is Welcome Paul
+INFO     Test_001_Invalid_Login:test_login.py:50 ****Ended Login Success test ****<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">testCases/test_login.py::Test_001_Invalid_Login::test_login_Invalid</td>
-          <td class="col-duration">31.57</td>
+          <td class="col-duration">34.47</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody></table></body></html>
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching chrome browser.........
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     Test_001_Invalid_Login:test_login.py:53 ****Started Login Invalid test ****<br/></div></td></tr></tbody></table></body></html>

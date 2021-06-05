@@ -1,4 +1,5 @@
 from selenium import webdriver
+from pageObjects.LoginPage import LoginPage
 import pytest
 
 @pytest.fixture()
@@ -21,6 +22,7 @@ def browser(request):  # This will return the Browser value to setup method
 ########### pytest HTML Report ################
 
 # It is hook for Adding Environment info to HTML Report
+
 def pytest_configure(config):
     config._metadata['Project Name'] = 'Selenium Project'
     config._metadata['Module Name'] = 'Login'
