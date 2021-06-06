@@ -1,0 +1,7 @@
+username_id = "txtUsername"
+password_id = "txtPassword"
+login_id = "btnLogin"
+text_id = "welcome"
+logout_xpath = "//a[text()='Logout' or text()='Cerrar sesión']"
+error_xpath = "//span[@id='spanMessage']"
+user_cred_elements_xpath ="(//div/span)[1]"

@@ -1,14 +1,16 @@
-
+from TestData import Locators
 
 class LoginPage:
     # Login Page
-    textbox_username_id = "txtUsername"
-    textbox_password_id = "txtPassword"
-    button_login_id = "btnLogin"
-    label_text_id = "welcome"
-    link_logout_xpath = "//a[text()='Logout' or text()='Cerrar sesión']"
-    error_message_text_xpath = "//span[@id='spanMessage']"
+    textbox_username_id = Locators.username_id
+    textbox_password_id = Locators.password_id
+    button_login_id = Locators.login_id
+    label_text_id = Locators.text_id
+    link_logout_xpath = Locators.logout_xpath
+    error_message_text_xpath = Locators.error_xpath
+    user_elements_xpath =Locators.user_cred_elements_xpath
 
+    #Constructor
     def __init__(self,driver):
         self.driver=driver
 
@@ -41,4 +43,8 @@ class LoginPage:
     def captureErrorMessage(self):
         errorMessage= self.driver.find_element_by_xpath(self.error_message_text_xpath).text
         return errorMessage
+
+    def captureUserDetailsElement(self):
+        userElement= self.driver.find_element_by_xpath(self.user_elements_xpath).text
+        return userElement
 

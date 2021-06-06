@@ -32,3 +32,176 @@
 06/05/2021 06:30:25 PM - Test_001_Invalid_Login - INFO: ****Started Login Invalid test ****
 06/05/2021 06:30:58 PM - Test_001_Invalid_Login - INFO: ****Capture screenshot test when test failed ****
 06/05/2021 06:31:13 PM - Test_001_Invalid_Login - INFO: ****Captured screenshot****
+06/05/2021 11:13:36 PM - Test_001_Invalid_Login - INFO: *************** Test_001_Login *****************
+06/05/2021 11:13:36 PM - Test_001_Invalid_Login - INFO: ****Started Home page title test ****
+06/05/2021 11:13:51 PM - Test_001_Invalid_Login - INFO: **** Home page title test passed ****
+06/05/2021 11:13:55 PM - Test_001_Invalid_Login - INFO: ****Started Login Success test ****
+06/05/2021 11:14:33 PM - Test_001_Invalid_Login - INFO: The User Name is Welcome Paul
+06/05/2021 11:14:39 PM - Test_001_Invalid_Login - INFO: ****Ended Login Success test ****
+06/05/2021 11:14:43 PM - Test_001_Invalid_Login - INFO: ****Started Login Invalid test ****
+06/05/2021 11:15:14 PM - Test_001_Invalid_Login - INFO: ****Capture screenshot test when test failed ****
+06/05/2021 11:15:29 PM - Test_001_Invalid_Login - INFO: ****Captured screenshot****
+06/05/2021 11:40:27 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/05/2021 11:40:27 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/05/2021 11:40:43 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/05/2021 11:40:45 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/05/2021 11:41:25 PM - Test_001__Login - INFO: The User Name is Welcome Paul
+06/05/2021 11:41:32 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/05/2021 11:41:35 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/05/2021 11:42:03 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/05/2021 11:42:17 PM - Test_001__Login - INFO: ****Captured screenshot****
+06/05/2021 11:44:06 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/05/2021 11:44:06 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/05/2021 11:44:21 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/05/2021 11:44:24 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/05/2021 11:44:58 PM - Test_001__Login - INFO: The User Name is Welcome Paul
+06/05/2021 11:45:04 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/05/2021 11:45:06 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/05/2021 11:45:35 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/05/2021 11:45:49 PM - Test_001__Login - INFO: ****Captured screenshot****
+06/05/2021 11:47:00 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/05/2021 11:47:00 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/05/2021 11:47:16 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/05/2021 11:47:19 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/05/2021 11:47:56 PM - Test_001__Login - INFO: The User Name is Welcome Paul
+06/05/2021 11:48:05 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/05/2021 11:48:49 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/05/2021 11:49:03 PM - Test_001__Login - INFO: ****Captured screenshot****
+06/05/2021 11:50:10 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/05/2021 11:50:10 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/05/2021 11:50:25 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/05/2021 11:50:29 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/05/2021 11:51:08 PM - Test_001__Login - INFO: The User Name is Welcome Paul
+06/05/2021 11:51:19 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/05/2021 11:51:21 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/05/2021 11:51:54 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/05/2021 11:52:08 PM - Test_001__Login - INFO: ****Captured screenshot****
+06/06/2021 02:22:16 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/06/2021 02:22:17 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/06/2021 02:22:31 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/06/2021 02:22:34 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/06/2021 02:23:17 PM - Test_001__Login - INFO: The User Name is Welcome Paul
+06/06/2021 02:23:28 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/06/2021 02:23:31 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/06/2021 02:24:07 PM - Test_001__Login - INFO: ****Verified and matched Error Message for Invalid credentials****
+06/06/2021 02:24:10 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/06/2021 02:24:24 PM - Test_001__Login - ERROR: ****Captured screenshot****
+06/06/2021 02:32:16 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/06/2021 02:32:16 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/06/2021 02:32:30 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/06/2021 02:32:34 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/06/2021 02:33:19 PM - Test_001__Login - INFO: The User Name is Welcome Paul
+06/06/2021 02:33:30 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/06/2021 02:33:33 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/06/2021 02:34:09 PM - Test_001__Login - INFO: ****Verified and matched Error Message for Invalid credentials****
+06/06/2021 02:34:12 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/06/2021 02:34:28 PM - Test_001__Login - ERROR: ****Captured screenshot****
+06/06/2021 02:38:13 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/06/2021 02:38:13 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/06/2021 02:38:28 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/06/2021 02:38:30 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/06/2021 02:39:08 PM - Test_001__Login - INFO: The User Name is Welcome Paul
+06/06/2021 02:39:18 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/06/2021 02:39:20 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/06/2021 02:39:55 PM - Test_001__Login - INFO: ****Verified and matched Error Message for Invalid credentials****
+06/06/2021 02:39:58 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/06/2021 02:40:12 PM - Test_001__Login - ERROR: ****Captured screenshot****
+06/06/2021 02:42:58 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/06/2021 02:42:58 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/06/2021 02:43:13 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/06/2021 02:43:16 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/06/2021 02:44:00 PM - Test_001__Login - INFO: The User Name is Welcome Paul
+06/06/2021 02:44:11 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/06/2021 02:44:13 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/06/2021 02:44:49 PM - Test_001__Login - INFO: ****Verified and matched Error Message for Invalid credentials****
+06/06/2021 02:44:51 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/06/2021 02:45:06 PM - Test_001__Login - ERROR: ****Captured screenshot****
+06/06/2021 03:32:40 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/06/2021 03:32:40 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/06/2021 03:32:55 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/06/2021 03:32:58 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/06/2021 03:33:39 PM - Test_001__Login - INFO: The User Name is Welcome Mitesh
+06/06/2021 03:33:50 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/06/2021 03:33:53 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/06/2021 03:34:29 PM - Test_001__Login - INFO: ****Verified and matched Error Message for Invalid credentials****
+06/06/2021 03:34:31 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/06/2021 03:37:25 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/06/2021 03:37:25 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/06/2021 03:37:39 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/06/2021 03:37:45 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/06/2021 03:38:24 PM - Test_001__Login - INFO: The User Name is Welcome Mitesh
+06/06/2021 03:38:35 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/06/2021 03:38:38 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/06/2021 03:39:14 PM - Test_001__Login - INFO: ****Verified and matched Error Message for Invalid credentials****
+06/06/2021 03:39:17 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/06/2021 03:39:33 PM - Test_001__Login - ERROR: ****Captured screenshot****
+06/06/2021 03:41:18 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/06/2021 03:41:18 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/06/2021 03:41:33 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/06/2021 03:41:38 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/06/2021 03:42:18 PM - Test_001__Login - INFO: The User Name is Welcome Mitesh
+06/06/2021 03:42:29 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/06/2021 03:42:31 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/06/2021 03:43:06 PM - Test_001__Login - INFO: ****Verified and matched Error Message for Invalid credentials****
+06/06/2021 03:43:09 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/06/2021 03:43:24 PM - Test_001__Login - ERROR: ****Captured screenshot****
+06/06/2021 03:45:38 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/06/2021 03:45:38 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/06/2021 03:45:52 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/06/2021 03:45:55 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/06/2021 03:46:38 PM - Test_001__Login - INFO: The User Name is Welcome Mitesh
+06/06/2021 03:46:49 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/06/2021 03:46:51 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/06/2021 03:47:27 PM - Test_001__Login - INFO: ****Verified and matched Error Message for Invalid credentials****
+06/06/2021 03:47:29 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/06/2021 03:47:45 PM - Test_001__Login - ERROR: ****Captured screenshot****
+06/06/2021 03:49:32 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/06/2021 03:49:32 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/06/2021 03:49:48 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/06/2021 03:49:52 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/06/2021 03:50:30 PM - Test_001__Login - INFO: The User Name is Welcome Mitesh
+06/06/2021 03:50:41 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/06/2021 03:50:45 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/06/2021 03:51:21 PM - Test_001__Login - INFO: ****Verified and matched Error Message for Invalid credentials****
+06/06/2021 03:51:24 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/06/2021 03:51:38 PM - Test_001__Login - ERROR: ****Captured screenshot****
+06/06/2021 03:58:16 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/06/2021 03:58:16 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/06/2021 03:58:31 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/06/2021 03:58:34 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/06/2021 03:59:24 PM - Test_001__Login - INFO: The User Name is Welcome Mitesh
+06/06/2021 03:59:35 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/06/2021 03:59:37 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/06/2021 04:00:13 PM - Test_001__Login - INFO: ****Verified and matched Error Message for Invalid credentials****
+06/06/2021 04:00:15 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/06/2021 04:00:38 PM - Test_001__Login - ERROR: ****Captured screenshot****
+06/06/2021 04:06:26 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/06/2021 04:06:26 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/06/2021 04:06:41 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/06/2021 04:06:44 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/06/2021 04:07:28 PM - Test_001__Login - INFO: The User Name is Welcome Mitesh
+06/06/2021 04:07:39 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/06/2021 04:07:41 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/06/2021 04:08:17 PM - Test_001__Login - INFO: ****Verified and matched Error Message for Invalid credentials****
+06/06/2021 04:08:19 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/06/2021 04:08:41 PM - Test_001__Login - ERROR: ****Captured screenshot****
+06/06/2021 04:21:36 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/06/2021 04:21:36 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/06/2021 04:21:51 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/06/2021 04:21:54 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/06/2021 04:22:32 PM - Test_001__Login - INFO: The User Name is Welcome Paul
+06/06/2021 04:22:42 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/06/2021 04:22:45 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/06/2021 04:23:22 PM - Test_001__Login - INFO: ****Verified and matched Error Message for Invalid credentials****
+06/06/2021 04:23:26 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/06/2021 04:23:48 PM - Test_001__Login - ERROR: ****Captured screenshot****
+06/06/2021 04:39:39 PM - Test_001__Login - INFO: *************** Test_001_Login *****************
+06/06/2021 04:39:39 PM - Test_001__Login - INFO: ****Started Home page title test ****
+06/06/2021 04:40:04 PM - Test_001__Login - INFO: **** Home page title test passed ****
+06/06/2021 04:40:33 PM - Test_001__Login - INFO: ****Started Login Success test ****
+06/06/2021 04:41:21 PM - Test_001__Login - INFO: The User Name is Welcome Paul
+06/06/2021 04:41:34 PM - Test_001__Login - INFO: ****Ended Login Success test ****
+06/06/2021 04:42:03 PM - Test_001__Login - INFO: ****Started Login Invalid test ****
+06/06/2021 04:42:47 PM - Test_001__Login - INFO: ****Verified and matched Error Message for Invalid credentials****
+06/06/2021 04:43:12 PM - Test_001__Login - INFO: ****Capture screenshot test when test failed ****
+06/06/2021 04:43:36 PM - Test_001__Login - ERROR: ****Captured screenshot****
