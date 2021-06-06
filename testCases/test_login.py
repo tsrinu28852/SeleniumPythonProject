@@ -18,6 +18,7 @@ class Test_001__Login:
         self.logger.info("****Started Home page title test ****")
         self.driver = setup
         self.driver.get(self.baseURL)
+        time.sleep(2)
         self.driver.maximize_window()
         time.sleep(10)
         act_title = self.driver.title
@@ -35,19 +36,25 @@ class Test_001__Login:
         self.driver = setup
         self.logger.info("****Started Login Success test ****")
         self.driver.get(self.baseURL)
+        time.sleep(2)
         self.driver.maximize_window()
         time.sleep(25)
         self.lp = LoginPage(self.driver)
+        #Capture User Credentials
         hrmuser = self.lp.captureUserDetailsElement()
         userElements = hrmuser.split(' ', 8)
+        #Capture username
         username = userElements[3]
+        #Capture Password
         password = userElements[7]
         self.lp.setUserName(username)
         self.lp.setPassword(password)
         self.lp.clickLogin()
         time.sleep(5)
         get_user = self.lp.getDisplayedUserName()
+        self.logger.info("******* Capture Logged User as Admin User ****")
         self.logger.info("The User Name is "+get_user)
+        self.logger.info("########## UserName is Captured  ####################")
         print(get_user)
         time.sleep(5)
         self.lp.clickOnWelcomeLabel()
